@@ -1,2 +1,2 @@
 # gymnew
-just some stuff
+just some stuff i write there
